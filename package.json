@@ -7,7 +7,12 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "vue": "^2.6.11"
+    "document-register-element": "^1.14.10",
+    "js-cookie": "^2.2.1",
+    "vue": "^2.6.11",
+    "vue-custom-element": "^3.2.14",
+    "vuedraggable": "^2.24.3",
+    "webpack": "^4.46.0"
   },
   "devDependencies": {
     "@vue/cli-service": "~4.5.0",
